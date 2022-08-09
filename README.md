@@ -108,6 +108,8 @@ Sin embargo en la plataforma de Telegram podemos encontrar otros asistentes onli
 
 ✨✨**La otra solución es la creación de una página en la cual el estudiante podra elegir sus intereses y al hacer clic en ellas se muestra las universidades o instituciones que esten disoponibles y que este relacionado las carreras que imparten con los intereses del usuario y al elegir la institución que mas le agrade lo redirige a la página principal de la escuela**
 
+https://drive.google.com/file/d/15YCTKG-hxsPOkU-zc5SXqbgVWYeL6_Ua/view?usp=sharing
+
 - La pagina principal muestra información como una breve introducción 
 - Las categorías o intereses disponibles para que el usuario elija
     - Al hacer clic en cualquier interés de su preferencia se muetra otra página con las universidades disponibles
